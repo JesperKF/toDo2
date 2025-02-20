@@ -95,7 +95,8 @@ form {
 .done-list-section h2 {
   text-align: center;
   color: var(--accent-color);
-  padding-bottom: 10px;
+  text-decoration: underline;
+  padding-bottom: 15px;
 }
 
 ul {
